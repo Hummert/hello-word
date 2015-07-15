@@ -1,2 +1,2 @@
 # hello-word
-Hello World repository
+did some changes for testing purposes
